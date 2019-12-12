@@ -13,6 +13,6 @@
 <p><strong>Universidad:</strong>
 <P><em>- Universidad Nacional de Panamá</em>
 <h1>Redes Sociales</h1>
-<p><strong>Facebook:</strong> <a href="https://www.facebook.com/profile.php?id=100019416153494">Valentinca Carbonel</a>
+<p><strong>Facebook:</strong> <a href="https://www.facebook.com/valentinacarbonell">Valentina Carbonel</a>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/valentin5a/">Valentin5a</a>
 
